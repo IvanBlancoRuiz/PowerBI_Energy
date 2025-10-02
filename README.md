@@ -1,4 +1,4 @@
-# 📊 Power BI Project: Energy generation in Spain 
+# 📊 Proyecto de Power BI: Generación de energía en España 
 
 Este proyecto de Power BI analiza la evolución reciente del **mix energético en España**, incluyendo tanto fuentes renovables (eólica, solar fotovoltaica, solar térmica, hidráulica y otras renovables) como no renovables (nuclear, carbón y ciclo combinado). 
 
